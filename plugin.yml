@@ -1,4 +1,4 @@
 name: RedPlugin
-main: Visuel\EcranDeChargement
+main: EcranDeChargement
 version: 1.0.0
 api: 4.0.0
